@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.AssemblyInfo.cs
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.RazorAssemblyInfo.cache
+C:\Users\Hp\Desktop\mvcProyectoAlmacen\mvcProyectoAlmacen\obj\Debug\net8.0\mvcProyectoAlmacen.RazorAssemblyInfo.cs
